@@ -1,0 +1,14 @@
+D:\code\DonaPiruetas\DonaPiruetas\bin\Debug\net8.0\DonaPiruetas.exe
+D:\code\DonaPiruetas\DonaPiruetas\bin\Debug\net8.0\DonaPiruetas.deps.json
+D:\code\DonaPiruetas\DonaPiruetas\bin\Debug\net8.0\DonaPiruetas.runtimeconfig.json
+D:\code\DonaPiruetas\DonaPiruetas\bin\Debug\net8.0\DonaPiruetas.dll
+D:\code\DonaPiruetas\DonaPiruetas\bin\Debug\net8.0\DonaPiruetas.pdb
+D:\code\DonaPiruetas\DonaPiruetas\obj\Debug\net8.0\DonaPiruetas.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\DonaPiruetas\DonaPiruetas\obj\Debug\net8.0\DonaPiruetas.AssemblyInfoInputs.cache
+D:\code\DonaPiruetas\DonaPiruetas\obj\Debug\net8.0\DonaPiruetas.AssemblyInfo.cs
+D:\code\DonaPiruetas\DonaPiruetas\obj\Debug\net8.0\DonaPiruetas.csproj.CoreCompileInputs.cache
+D:\code\DonaPiruetas\DonaPiruetas\obj\Debug\net8.0\DonaPiruetas.dll
+D:\code\DonaPiruetas\DonaPiruetas\obj\Debug\net8.0\refint\DonaPiruetas.dll
+D:\code\DonaPiruetas\DonaPiruetas\obj\Debug\net8.0\DonaPiruetas.pdb
+D:\code\DonaPiruetas\DonaPiruetas\obj\Debug\net8.0\DonaPiruetas.genruntimeconfig.cache
+D:\code\DonaPiruetas\DonaPiruetas\obj\Debug\net8.0\ref\DonaPiruetas.dll
